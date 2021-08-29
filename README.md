@@ -1,2 +1,2 @@
 # test
-That is test directory to practice github
+That is a test directory to practice github
